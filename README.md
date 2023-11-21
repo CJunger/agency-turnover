@@ -13,6 +13,7 @@ You have two weeks to conduct the analysis and prepare a brief 3 minute
 Resources:
 Used to filter correlated features
 https://github.com/krishnaik06/Complete-Feature-Selection/blob/master/2-Feature%20Selection-%20Correlation.ipynb
+https://www.codecademy.com/article/fe-filter-methods
 
 filter feature reduction
 https://towardsdatascience.com/feature-selection-with-pandas-e3690ad8504b
